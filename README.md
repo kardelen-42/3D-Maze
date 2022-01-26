@@ -1,1 +1,23 @@
-# 3D-Scratch
+# 3D Scratch
+## How to download?
+1. Click link: https://scratch.mit.edu/download
+2. Choose your operating system.
+3. Scroll down and follow the steps there.
+4. Download the 3D Map after the download is finished.
+
+## How to play?
+W or Up arrow: Further
+
+A: Shift Left
+
+S or Down Arrow: Back
+
+D: Shift Right
+
+Left Arrow: Turn Left
+
+Right Arrow: Turn Right
+
+### To İnform
+1. The game is not over.
+2. The game is not saved.
