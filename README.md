@@ -19,5 +19,5 @@ Left Arrow: Turn Left
 Right Arrow: Turn Right
 
 ### To Inform
-1. The game is not over.
-2. The game is not saved.
+- The game is not over.
+- The game is not saved.
